@@ -1,6 +1,9 @@
 ### Hi there 👋
-I’m currently learning Html, CSS, JS, Python, Django
+
 <img src="https://c4.wallpaperflare.com/wallpaper/357/912/8/anime-domestic-girlfriend-rui-tachibana-hd-wallpaper-preview.jpg">
+
+- Btw She is Rui From Domestic na Kanojo 
+- 🌱I’m currently learning Html, CSS, JS, Python, Django
 <!--
 **Restaadit/Restaadit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
