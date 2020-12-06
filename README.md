@@ -6,6 +6,9 @@
 - 🌱I’m currently learning Html, CSS, JS, Python, Django
 - 💻I want to be a web developer
 
+
+wtf with my life
+
 <!--
 **Restaadit/Restaadit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
