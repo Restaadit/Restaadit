@@ -2,9 +2,10 @@
 
 <img src="https://c4.wallpaperflare.com/wallpaper/357/912/8/anime-domestic-girlfriend-rui-tachibana-hd-wallpaper-preview.jpg">
 
-- 💗Btw She is Rui💖 From Domestic na Kanojo💘 
-- 🌱I’m currently learning Html, CSS, JS, Python, Django
+- Rui💖
+- 🌱I’m currently learning Html, CSS, JS, Python, Django, AndroidKotlin
 - 💻I want to be a web developer
+- lol
 
 
 wtf with my life
