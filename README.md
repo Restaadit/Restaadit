@@ -3,7 +3,7 @@
 <img src="https://c4.wallpaperflare.com/wallpaper/357/912/8/anime-domestic-girlfriend-rui-tachibana-hd-wallpaper-preview.jpg">
 
 - Rui💖
-- 🌱I’m currently learning Html, CSS, JS, Python, Django, AndroidKotlin
+- 🌱I’m currently learning Html, CSS, JS, Python, CodeIgniter, Django, AndroidKotlin
 - 💻I want to be a web developer
 - lol
 
