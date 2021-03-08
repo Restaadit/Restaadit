@@ -4,7 +4,6 @@
 
 - Rui💖
 - 🌱I’m currently learning Html, CSS, JS, Python, CodeIgniter, Django, AndroidKotlin
-- 💻I want to be a web developer
 - lol
 
 
