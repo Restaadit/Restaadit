@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://c4.wallpaperflare.com/wallpaper/357/912/8/anime-domestic-girlfriend-rui-tachibana-hd-wallpaper-preview.jpg">
+<img src="https://c.tenor.com/esuZ9bnRZSkAAAAd/rui-tachibana-domestic-na-kanojo.gif">
 
 - Rui💖
 - 🌱I’m currently learning Html, CSS, JS, Python, CodeIgniter, Django, AndroidKotlin
