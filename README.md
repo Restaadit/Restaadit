@@ -3,7 +3,7 @@
 <img src="https://c.tenor.com/esuZ9bnRZSkAAAAd/rui-tachibana-domestic-na-kanojo.gif">
 
 - Rui💖
-- 🌱I’m currently learning Html, CSS, JS, Python, CodeIgniter, Django, AndroidKotlin
+- 🌱I’m currently learning Html, CSS, JS, Python, CodeIgniter, Django
 - lol
 
 
