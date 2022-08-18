@@ -3,7 +3,8 @@
 <img src="https://c.tenor.com/esuZ9bnRZSkAAAAd/rui-tachibana-domestic-na-kanojo.gif">
 
 - Rui💖
-- 🌱I’m currently learning Html, CSS, JS, Python, CodeIgniter, Django
+- 🌱I’m currently learning Html, CSS, JS, Python, CodeIgniter, Django.
+- wanna be machine learning engineer, maybe data analysist, or maybe data engineer😄😄😄😄😄
 - lol
 
 
